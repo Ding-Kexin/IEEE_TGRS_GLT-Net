@@ -28,4 +28,4 @@ If you find this paper useful, please cite:
 ```
 ****
 # Contact
-Kexin Ding: [dingkexin.hnu.edu.cn](dingkexin@hnu.edu.cn)
+Kexin Ding: [dingkexin@hnu.edu.cn](dingkexin@hnu.edu.cn)
