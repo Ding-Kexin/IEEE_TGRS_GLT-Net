@@ -12,7 +12,7 @@ The repository contains the implementations for "**Global-local Transformer Netw
 python demo.py
 ``` 
 ****
-## Results
+# Results
 | Dataset | OA (%) | AA (%) | Kappa |
 | :----: | :----: | :----: | :----: |
 | MUUFL  | 85.23 | 84.67 | 80.96 |
