@@ -3,14 +3,21 @@ The repository contains the implementations for "**Global-local Transformer Netw
 ![GLT-Net](https://user-images.githubusercontent.com/111871149/188766524-da5cc1af-7efb-43b6-8bc8-5f40a608647b.jpg)
 ****
 # Datasets
-[MUUFL](https://github.com/GatorSense/MUUFLGulfport/)
-
-[Houston2013](http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/)
+- [MUUFL](https://github.com/GatorSense/MUUFLGulfport/)
+- [Trento](https://github.com/danfenghong/IEEE_GRSL_EndNet/blob/master/README.md)
+- [Houston](https://hyperspectral.ee.uh.edu/?page_id=459)
 ****
 # Train GLT-Net
 ``` 
-demo.py
+python demo.py
 ``` 
+****
+## Results
+| Dataset | OA (%) | AA (%) | Kappa |
+| :----: | :----: | :----: | :----: |
+| MUUFL  | 85.23 | 84.67 | 80.96 |
+| Trento  | 99.27 | 98.63 | 99.03 |
+| Houston  | 95.32 | 96.01 | 94.95 |
 ****
 # Citation
 If you find this paper useful, please cite:
