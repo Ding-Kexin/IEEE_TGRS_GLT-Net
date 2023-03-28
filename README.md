@@ -13,7 +13,7 @@ python demo.py
 ``` 
 ****
 # Results
-| Dataset | OA (%) | AA (%) | Kappa |
+| Dataset | OA (%) | AA (%) | Kappa (%) |
 | :----: | :----: | :----: | :----: |
 | MUUFL  | 85.23 | 84.67 | 80.96 |
 | Trento  | 99.27 | 98.63 | 99.03 |
